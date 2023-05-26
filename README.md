@@ -1,16 +1,16 @@
-# mi_card_flutter
+# Mi Card App 📋
+* A very simple personal business card application with image, name, job, phone and email.
 
-A new Flutter project.
+<br/>
 
-## Getting Started
+## 📷 Preview 
+![미리보기](https://github.com/HyojunK/mi_card_flutter/assets/26563226/d87b5451-61bc-4c44-998e-30bf636b085d)
 
-This project is a starting point for a Flutter application.
+<br/>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 💡 What I've Learned
+* Hot reload & Hot restart
+* The usage of Multi-child layout widgets - Row, Column
+* How to add custom fonts to application.
+* Adding Material Icons with the icon widget
+* The usage of Card & ListTile widget
